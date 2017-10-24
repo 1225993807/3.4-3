@@ -17,7 +17,7 @@ lable_1:int a;
 	default:break;
 	}
 	return 0;
-
+	getchar();
 }
 
 void A()
